@@ -10,7 +10,7 @@ You can find my publications and preprints on [Google Scholar](https://scholar.g
 
 ## Quantum Information Scrambling
 
-<img align="right" src="/files/websiteImages/lightcone.jpg" width="400"> Scrambling of quantum information refers to the phenomenon by which an isolated quantum system undergoing its inherent quantum dynamics hides initially 'local' information in larger and larger subsystems as time passes. The ubiquity of information scrambling in systems as disparate as cold atoms in a lab and evaporating black hole has led to the creation of a new subfield of physics tying up threads of earlier research in condensed matter physics, quantum information science, gravity, and atomic physics.
+<img align="right" src="/files/websiteImages/lightcone.jpg" width="300"> Scrambling of quantum information refers to the phenomenon by which an isolated quantum system undergoing its inherent quantum dynamics hides initially 'local' information in larger and larger subsystems as time passes. The ubiquity of information scrambling in systems as disparate as cold atoms in a lab and evaporating black hole has led to the creation of a new subfield of physics tying up threads of earlier research in condensed matter physics, quantum information science, gravity, and atomic physics.
 
 - I have studied how scrambling is arrested in the presence of quenched disorder in strongly interacting spin systems. By turning up disorder, we scanned the scrambling please diagram across a Thermalization - Many body Localization (MBL) quantum phase transition. We identified a sharp transition in the nature of information scrambling at
 disorder values lower than the putative MBL transition disorder strengths. [[Phys. Rev. Lett. 123, 165902 (2019)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.165902) 
@@ -27,8 +27,10 @@ disorder values lower than the putative MBL transition disorder strengths. [[Phy
 
 ## Tensor network methods for studying quantum information dynamics
 
-<img align="right" src="/files/websiteImages/tn.jpg" width="200">
-One aspect of my work has been to study OTOCs by extending known tensor network techniques to study operator dynamics in very large 1D systems and for very long times. This involves bootstrapping the emergent locality of the operator dynamics in the Lieb-Robinson sense with the simple structure of the OTOCs. [[Phys. Rev. Lett. 123, 165902 (2019)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.165902) [[Phys. Rev. B 102, 184303 (2020)]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184303)
+<img align="right" src="/files/websiteImages/tn.jpg" width="150">
+
+One aspect of my work has been to study OTOCs by extending known tensor network techniques to study operator dynamics in very large 1D systems and for very long times. This involves bootstrapping the emergent locality of the operator dynamics in the Lieb-Robinson sense with the simple structure of the OTOCs. 
+[[Phys. Rev. Lett. 123, 165902 (2019)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.165902) [[Phys. Rev. B 102, 184303 (2020)]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184303)
 
 
 
