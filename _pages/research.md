@@ -6,7 +6,6 @@ author_profile: true
 ---
 Under construction
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can find my publications and preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u> or <u><a href = "\cv"> in my CV </a></u>
+
 
