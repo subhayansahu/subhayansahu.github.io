@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
+<p> Here I will briefly summarize my papers. </p>
