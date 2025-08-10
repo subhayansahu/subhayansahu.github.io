@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Subhayan Sahu, a postdoctoral researcher studying quantum matter and quantum information at the [Perimeter Institute of Theoretical Physics](https://perimeterinstitute.ca/). I got my PhD in theoretical physics in 2022 at the [Condensed Matter Theory Center](https://www.physics.umd.edu/cmtc/) in University of Maryland, College Park, advised by Prof. [Brian Swingle](https://umdphysics.umd.edu/people/faculty/adjunct-faculty/item/876-bswingle.html).
+I am a postdoctoral researcher studying quantum matter and quantum information at the [Perimeter Institute of Theoretical Physics](https://perimeterinstitute.ca/). I got my PhD in theoretical physics in 2022 at the [Condensed Matter Theory Center](https://www.physics.umd.edu/cmtc/) in University of Maryland, College Park, advised by Prof. [Brian Swingle](https://umdphysics.umd.edu/people/faculty/adjunct-faculty/item/876-bswingle.html).
 
 I primarily work on studying dynamics and structure of quantum entanglement and information in quantum many-body systems, both in and out of equilibrium. I am also interested in developing and investigating tensor network tools to study complex quantum systems. Please check out my [Research](https://subhayansahu.github.io/research/) page for more details about my publications.
 
